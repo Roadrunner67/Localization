@@ -86,41 +86,5 @@ namespace Localization.Properties {
                 return ResourceManager.GetString("ColumnHeader", resourceCulture);
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Alarms.
-        /// </summary>
-        internal static string HeaderAlarmsString {
-            get {
-                return ResourceManager.GetString("HeaderAlarmsString", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Configuration.
-        /// </summary>
-        internal static string HeaderConfigurationString {
-            get {
-                return ResourceManager.GetString("HeaderConfigurationString", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Monitoring.
-        /// </summary>
-        internal static string HeaderMonitoringString {
-            get {
-                return ResourceManager.GetString("HeaderMonitoringString", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized string similar to Overview.
-        /// </summary>
-        internal static string HeaderOverviewString {
-            get {
-                return ResourceManager.GetString("HeaderOverviewString", resourceCulture);
-            }
-        }
     }
 }

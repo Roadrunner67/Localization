@@ -126,16 +126,4 @@
   <data name="ColumnHeader" xml:space="preserve">
     <value>English column header</value>
   </data>
-  <data name="HeaderAlarmsString" xml:space="preserve">
-    <value>Alarms</value>
-  </data>
-  <data name="HeaderConfigurationString" xml:space="preserve">
-    <value>Configuration</value>
-  </data>
-  <data name="HeaderMonitoringString" xml:space="preserve">
-    <value>Monitoring</value>
-  </data>
-  <data name="HeaderOverviewString" xml:space="preserve">
-    <value>Overview</value>
-  </data>
 </root>
